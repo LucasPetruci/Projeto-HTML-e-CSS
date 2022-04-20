@@ -1,0 +1,103 @@
+header{
+    background: rgb(130, 131, 130);
+    padding: 20px 0;
+}
+
+.home{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin-left: 15px;
+}
+
+nav a{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: rgb(130, 131, 130);
+    padding: 50px;
+}
+
+.tituloPrincipal{
+    padding-left: 20px;
+}
+
+.tituloCentralizado{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center; 
+}
+
+#missao{
+   font-size: 20px;
+}
+
+em strong{
+    color: rgb(145, 5, 5);
+}
+
+.itens{
+    font-style: italic;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.beneficios{
+    background: rgb(202, 202, 199);
+    padding: 20px;
+}
+
+
+.lista2{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    margin-top: 100px;
+}
+
+.imgbeneficos{
+    width: 40%;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
